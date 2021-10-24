@@ -8,6 +8,11 @@
     margin: 0;
 }
 
+.collapse .navbar-nav .nav-item:hover {
+    background-color: hotpink;
+    border-radius: 6px;
+}
+
 
 /*main*/
 
