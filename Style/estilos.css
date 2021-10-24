@@ -8,13 +8,19 @@
     margin: 0;
 }
 
+
 .collapse .navbar-nav .nav-item:hover {
     background-color: hotpink;
-    border-radius: 6px;
+    /*border-radius: 6px;*/
 }
 
-
 /*main*/
+
+.album{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
 
 .portada figure .cajaPortada{
     position: absolute;
@@ -96,13 +102,7 @@
 
 
 .footer{
-    display: flex;
-    justify-content: space-around;
-    height: 4rem; 
-    align-items: center ;
-    color: whitesmoke;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: linear-gradient(to top, #fa769e, #c285a3);
+    background-color: #D66BA0 ;    
 }
 
 /*servicio.html*/
