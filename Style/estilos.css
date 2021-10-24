@@ -11,7 +11,7 @@
 
 .collapse .navbar-nav .nav-item:hover {
     background-color: hotpink;
-    /*border-radius: 6px;*/
+    border-radius: 6px;
 }
 
 /*main*/
@@ -197,7 +197,16 @@ img{
     padding: 1rem;
 }
 
+/*BLOG*/ 
 
+.textoBlog{
+    background-color:#D66BA0 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
 
 
 
