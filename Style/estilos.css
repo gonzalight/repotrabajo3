@@ -166,35 +166,8 @@
 
 /*Conóceme.html*/
 
-img{
-    width: 100%;
-
-}
-
-.row{
-    display: flex;
-    padding: 2px;
-    flex-wrap: wrap;
-
-}
-
-.column{
-    flex: 25%;
-    padding: 3px;
-
-}
-
-.column img{
-    padding: auto;
-}
-
-.textoConoceme{
-    background-color:#D66BA0;
-    color: whitesmoke;
-    font-size: 0.8rem;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 1rem;
+.containerConoceme{
+    margin:auto;
 }
 
 /*BLOG*/ 
