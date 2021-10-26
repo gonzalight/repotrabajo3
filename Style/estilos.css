@@ -181,5 +181,22 @@
     margin-top: 0.5rem;
 }
 
+/*Contacto*/
+
+.containerContacto{
+        padding: 0;
+}
+.card h1{
+    color: #D66BA0;
+}
+.card span{
+    color: #D66BA0;
+}
+
+
+
+
+
+
 
 
