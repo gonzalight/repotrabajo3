@@ -122,9 +122,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 3rem;
+    height: 1rem;
     width: 100%;
-    padding-top: 1rem;
+   
 }
 
 .servicios{
@@ -185,6 +185,7 @@
 
 .containerContacto{
         padding: 0;
+        margin: 3rem;
 }
 .card h1{
     color: #D66BA0;
